@@ -1,5 +1,5 @@
 # Aayushman Das
-**Electronics & Telecommunication Engineer | Undergraduate Researcher @ Jadavpur University**
+**Electronics & Telecommunication Engineering Student @ Jadavpur University | Undergraduate Researcher**
 
 ---
 
