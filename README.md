@@ -4,7 +4,7 @@
 ---
 
 ## ⚡ The Short Version
-I’m an electronics lead who spends an unhealthy amount of time debugging I2C buses and perfecting aerodynamic stability. Currently Co-Founding **Team Antarez** and making sure our hardware doesn't catch fire—usually successfully.
+I’m an electronics lead who spends an unhealthy amount of time debugging I2C buses and perfecting aerodynamic stability. Currently Co-Founding **Team Antarez** and making sure our hardware doesn't catch fire...usually successfully.
 
 ---
 
@@ -48,5 +48,3 @@ I’m an electronics lead who spends an unhealthy amount of time debugging I2C b
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)]([https://www.researchgate.net/profile/Aayushman-Das](https://www.researchgate.net/profile/Aayushman-Das))
 
 ---
-
-"If at first you don't succeed, call it version 0.1 and update the documentation."
