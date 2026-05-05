@@ -3,12 +3,12 @@
 
 ---
 
-## --> The "Short Version"
+## ⚡ The Short Version
 I’m an electronics lead who spends an unhealthy amount of time debugging I2C buses and perfecting aerodynamic stability. Currently Co-Founding **Team Antarez** and making sure our hardware doesn't catch fire—usually successfully.
 
 ---
 
-## --> Engineering Hub
+## 🏗️ Engineering Hub
 | Domain | Focus Area | The "Real" Work |
 | :--- | :--- | :--- |
 | **IoT & Edge AI** | Biometric Acquisition | Forcing an ESP32 to run TinyML stress analysis so it knows exactly when I'm about to give up. |
@@ -18,7 +18,7 @@ I’m an electronics lead who spends an unhealthy amount of time debugging I2C b
 
 ---
 
-## --> Technical Arsenal
+## 🛠️ Technical Arsenal
 *   **Hardware:** ESP32, KiCAD (PCB design), Fusion 360 (CAD), SMA RF Optimization.
 *   **Software:** C/C++, Python, PlatformIO, OpenVSP, OpenRocket.
 *   **Documentation:** LaTeX (because I value my sanity and professional aesthetics).
@@ -26,7 +26,7 @@ I’m an electronics lead who spends an unhealthy amount of time debugging I2C b
 
 ---
 
-## --> Proof of Competence (Honors & Awards)
+## 🏆 Proof of Competence
 *   **1st Place | Solar Vision (Kshitij '26, IIT KGP):** Engineered a kinetic Miura-Ori solar facade. It’s basically origami, but with more actuators and fewer papercuts.
 *   **1st Place | Wings of Words (JU):** Convinced a room full of people that Skyhooks are the future of orbital transport.
 *   **2nd Place | Mazecraft (Trajectory '26):** Built a sensor fusion stack for a robot that navigates mazes better than I navigate social situations.
@@ -37,13 +37,16 @@ I’m an electronics lead who spends an unhealthy amount of time debugging I2C b
 
 ---
 
-## --> Recent Publication
+## 📝 Recent Publication
 *   **"Robustness Evaluation of a Low-Cost WSN..."** (ResearchGate, 2026). A peer-reviewed way of saying I built a weather-proof sensor network that actually survived a tropical storm.
 
 ---
 
-## --> Connection
-*   **LinkedIn:** [linkedin.com/in/aayushman-das](https://linkedin.com/in/aayushman-das)
-*   **Email:** aayushmandas100@gmail.com
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushman-das)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushmandas100@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)]([https://www.researchgate.net/profile/Aayushman-Das](https://www.researchgate.net/profile/Aayushman-Das))
+
+---
 
 "If at first you don't succeed, call it version 0.1 and update the documentation."
