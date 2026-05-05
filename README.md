@@ -38,7 +38,8 @@ I’m an electronics lead who spends an unhealthy amount of time debugging I2C b
 ---
 
 ## 📝 Recent Publication
-*   **"Robustness Evaluation of a Low-Cost WSN..."** (ResearchGate, 2026). A peer-reviewed way of saying I built a weather-proof sensor network that actually survived a tropical storm.
+*   **"Robustness Evaluation of a Low-Cost WSN for Satellite Ground-Truthing under Extreme Tropical Weather Events"** (ResearchGate, 2026). A peer-reviewed way of saying I built a weather-proof sensor network that actually survived a tropical storm.
+    *   **DOI:** [10.13140/RG.2.2.25746.00967](https://doi.org/10.13140/RG.2.2.25746.00967)
 
 ---
 
