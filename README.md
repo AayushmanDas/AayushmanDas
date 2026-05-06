@@ -1,51 +1,60 @@
 # Aayushman Das
-**Electronics & Telecommunication Engineering Student @ Jadavpur University | Undergraduate Researcher**
+**Electronics & Telecommunication Engineering @ Jadavpur University | Undergraduate Researcher | Avionics & Edge AI**
 
 ---
 
 ## ⚡ The Short Version
-I’m an electronics lead who spends an unhealthy amount of time debugging I2C buses and perfecting aerodynamic stability. Currently Co-Founding **Team Antarez** and making sure our hardware doesn't catch fire...usually successfully.
+
+Electronics Lead & Co-Founder of **Team Antarez**. I split my time between debugging I2C buses at 2am, simulating rocket stability margins, and convincing sensors to agree with satellites. Currently building hardware that flies, survives tropical storms, and occasionally doesn't catch fire.
 
 ---
 
-## 🏗️ Engineering Hub
-| Domain | Focus Area | The "Real" Work |
+## 🏗️ What I Actually Work On
+
+| Domain | Current Work | Reality Check |
 | :--- | :--- | :--- |
-| **IoT & Edge AI** | Biometric Acquisition | Forcing an ESP32 to run TinyML stress analysis so it knows exactly when I'm about to give up. |
-| **Aerospace** | Rocketry & Avionics | Designing the Interceptor V1. Mach 0.33 simulated top speed—significantly faster than my campus commute. |
-| **Research** | Satellite Ground-Truthing | Developed a 5-node WSN for NASA SMAP validation. Essentially, I put sensors in the dirt so satellites don't have to guess. |
-| **Simulations** | VLM & Airframe Analysis | Resolving Kutta condition failures on a Cessna 210. I’ve stared at lift-slope derivatives for longer than I’ve slept this semester. |
+| **IoT & Edge AI** | FreeRTOS + TinyML biometric system (ECG, SpO2, GSR) | Making an ESP32 do real-time stress analysis, it's stressed too. |
+| **Avionics & Rocketry** | Interceptor V1 dual-stage sounding rocket | Mach 0.33 simulated. Significantly faster than my campus bus. |
+| **Satellite Research** | 5-node WSN for NASA SMAP ground-truth validation | Put sensors in tropical dirt so a satellite doesn't have to guess. |
+| **Aerodynamic Simulation** | Cessna 210 VLM analysis in OpenVSP/VSPAERO | I've stared at lift-slope derivatives longer than I've slept this semester. |
 
 ---
 
 ## 🛠️ Technical Arsenal
-*   **Hardware:** ESP32, KiCAD (PCB design), Fusion 360 (CAD), SMA RF Optimization.
-*   **Software:** C/C++, Python, PlatformIO, OpenVSP, OpenRocket.
-*   **Documentation:** LaTeX (because I value my sanity and professional aesthetics).
-*   **Protocols:** I2C, SPI, UART, ESP-NOW, and the "it-worked-on-my-breadboard" logic.
+
+- **Hardware & Prototyping:** ESP32, Raspberry Pi, KiCAD (PCB), Fusion 360 (CAD), SMA RF Optimization
+- **Software & Simulation:** C/C++, Python, OpenVSP, OpenRocket, PlatformIO, LaTeX
+- **Protocols & RTOS:** I2C, SPI, UART, ESP-NOW, FreeRTOS, LwIP/NAPT
+- **ML & Edge:** TensorFlow Lite, TinyML on constrained hardware
+- **Documentation:** LaTeX — because Word is a cry for help
+
+---
+
+## 📝 Publication
+
+**"Robustness Evaluation of a Low-Cost WSN for Satellite Ground-Truthing under Extreme Tropical Weather Events"**
+*ResearchGate Preprint, 2026* — Submitted to IEEE InGARSS 2026
+
+A solo research effort validating NASA SMAP soil moisture data against a self-engineered 5-node sensor network through an actual tropical storm. The network held. The researcher nearly didn't.
+
+🔗 [DOI: 10.13140/RG.2.2.25746.00967](https://doi.org/10.13140/RG.2.2.25746.00967)
 
 ---
 
 ## 🏆 Proof of Competence
-*   **1st Place | Solar Vision (Kshitij '26, IIT KGP):** Engineered a kinetic Miura-Ori solar facade. It’s basically origami, but with more actuators and fewer papercuts.
-*   **1st Place | Wings of Words (JU):** Convinced a room full of people that Skyhooks are the future of orbital transport.
-*   **2nd Place | Mazecraft (Trajectory '26):** Built a sensor fusion stack for a robot that navigates mazes better than I navigate social situations.
-*   **2nd Place | Freeze Frame (ISHRAE JU):** EV thermal management analysis. Because keeping batteries cool is almost as hard as keeping my laptop cool.
-*   **2nd Place | Case-O-Mania (Srijan '26):** Applied fluid dynamics to forensics. Forensic engineering: because regular engineering wasn't dramatic enough.
-*   **3rd Place | Case Study (NSSC '25, IIT KGP):** Competitive orbital mechanics and lunar mission architecture.
-*   **Finalist | Abol Tabol (Convolution '26):** Technical and satirical presentation. Proving that engineers can, occasionally, be funny.
+
+- 🥇 **Solar Vision — Kshitij '26 (IIT KGP):** Kinetic Miura-Ori solar facade. Origami, but with actuators and higher stakes.
+- 🥇 **Wings of Words — Stratosphere & IMech JU:** Convinced a room of engineers that orbital skyhooks are viable. They gave me first place. Still not sure if they believed me.
+- 🥈 **Mazecraft — Trajectory '26 (JU):** Sensor fusion stack for autonomous maze navigation. The robot handles uncertainty better than I do.
+- 🥈 **Case-O-Mania — Srijan '26 (JU):** Fluid dynamics and forensic engineering. Because regular engineering wasn't dramatic enough.
+- 🥈 **Freeze Frame — ISHRAE JU:** EV thermal management analysis. Keeping batteries cool is harder than it sounds.
+- 🥉 **Case Study — NSSC '25 (IIT KGP):** Lunar mission architecture and orbital mechanics under competition pressure.
+- **Finalist | Abol Tabol — Convolution '26 (JU):** Technical satirical presentation. Proof that engineers can, occasionally, be funny.
 
 ---
 
-## 📝 Recent Publication
-*   **"Robustness Evaluation of a Low-Cost WSN for Satellite Ground-Truthing under Extreme Tropical Weather Events"** (ResearchGate, 2026). A peer-reviewed way of saying I built a weather-proof sensor network that actually survived a tropical storm.
-    *   **DOI:** [10.13140/RG.2.2.25746.00967](https://doi.org/10.13140/RG.2.2.25746.00967)
+## 🌐 Connect
 
----
-
-## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushman-das)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushmandas100@gmail.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)]([https://www.researchgate.net/profile/Aayushman-Das](https://www.researchgate.net/profile/Aayushman-Das))
-
----
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aayushman-Das)
